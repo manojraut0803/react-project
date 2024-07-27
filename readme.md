@@ -10,5 +10,6 @@ Table of Content
 5] Fibre and reconciliation vs rendering
 6] Tailwind and props
 7] bgChanger    Hooks(State)
-8] 
+8] passwordGenerator (useCallback, useEffect and useRef)
+9] 
 ```
